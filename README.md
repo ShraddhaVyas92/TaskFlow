@@ -15,8 +15,8 @@
 
 ## Technologies Used
 
-- React
-- Express JS
+- React.js
+- Express.js
 - MongoDB
 - Node.js
 
