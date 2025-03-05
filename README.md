@@ -23,10 +23,12 @@
 
 List the ready features here:
 
+- User Authentication
 - Add, edit, and delete tasks
 - Categorize tasks by month
 - Track task completion progress
-- Set due dates and reminders
+- Search and Filter Task
+- Responsive User Interface
 
 ## Project Status
 
