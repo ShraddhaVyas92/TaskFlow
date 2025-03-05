@@ -11,7 +11,7 @@
 
 ## General Information
 
-- The Project TaskFlow aims to simplify the monthly task management in effiient way by providing interactive user interface. 
+- The Project TaskFlow aims to simplify the monthly task management in efficient way by providing interactive user interface. 
 
 ## Technologies Used
 
