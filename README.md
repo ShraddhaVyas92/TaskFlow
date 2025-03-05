@@ -1,6 +1,6 @@
 # TaskFlow
 
-> A simple and efficient task management application designed to help users organize, track, and complete their monthly tasks with ease. The web application is built using the MERN stack (MongoDB, Express, React, and Node.js). 
+> A simple and efficient task management application designed to help users organize, track, and complete their monthly tasks with ease. This web application is built using the MERN stack (MongoDB, Express, React, and Node.js). 
 
 ## Table of Contents
 
@@ -11,17 +11,16 @@
 
 ## General Information
 
-- The Project TaskFlow aims to simplify the monthly task management in effiient way by providing interactive user interface. It is developed as a part of final project requirements for the MERN course provided by ComIT.  
+- The Project TaskFlow aims to simplify the monthly task management in effiient way by providing interactive user interface. 
 
 ## Technologies Used
 
-- Frontend Technology - React
-- Backdend  - NodeJS - ExpressJS
-- Database - MongoDB
+- React
+- Express JS
+- MongoDB
+- Node.js
 
 ## Features
-
-List the ready features here:
 
 - User Authentication
 - Add, edit, and delete tasks
