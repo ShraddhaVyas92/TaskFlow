@@ -7,7 +7,9 @@
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Running the Project](#running-the-project)
 - [Project Status](#project-status)
+
 
 ## General Information
 
@@ -27,6 +29,19 @@ List the ready features here:
 - Categorize tasks by month
 - Track task completion progress
 - Set due dates and reminders
+
+## Running the Project
+Clone the repository
+
+-https://github.com/ShraddhaVyas92/TaskFlow.git
+
+Install Dependencies
+
+-npm install
+
+Run the development server
+
+-npm run dev
 
 ## Project Status
 
