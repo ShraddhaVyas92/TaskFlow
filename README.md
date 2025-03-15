@@ -33,15 +33,15 @@ List the ready features here:
 ## Running the Project
 Clone the repository
 
--https://github.com/ShraddhaVyas92/TaskFlow.git
+- https://github.com/ShraddhaVyas92/TaskFlow.git
 
 Install Dependencies
 
--npm install
+- npm install
 
 Run the development server
 
--npm run dev
+- npm run dev
 
 ## Project Status
 
