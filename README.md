@@ -7,7 +7,7 @@
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Running the Project](#running-the-project)
+- [Getting Started](#getting-started)
 - [Project Status](#project-status)
 
 
@@ -30,7 +30,6 @@ List the ready features here:
 - Track task completion progress
 - Set due dates and reminders
 
-<<<<<<< HEAD
 ## Getting Started
 
 ### Steps to Set Up the Project  
@@ -44,7 +43,7 @@ cd TaskFlow
 2️⃣ **Install dependencies**  
 ```sh
 npm install
-
+```
 3️⃣ **Run the development server**  
 ```sh
 npm run dev
