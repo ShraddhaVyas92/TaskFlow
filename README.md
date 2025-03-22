@@ -7,7 +7,9 @@
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Running the Project](#running-the-project)
 - [Project Status](#project-status)
+
 
 ## General Information
 
@@ -28,6 +30,7 @@ List the ready features here:
 - Track task completion progress
 - Set due dates and reminders
 
+<<<<<<< HEAD
 ## Getting Started
 
 ### Steps to Set Up the Project  
