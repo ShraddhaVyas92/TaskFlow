@@ -1,0 +1,108 @@
+:root {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    color-scheme: light dark;
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+.wrapper{
+    margin: 1%;
+    padding:2%;
+}
+
+.logo {
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 1.5em;
+  color:indigo;
+  font-weight: 600;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+/*Satrt of Dashboard */
+.dashboard-content{
+    padding-left: 5%;
+    padding-top: 0.5%;
+    display: flex;
+}
+
+.dashboard-header{
+    border: 1px solid white;
+    border-radius: 25px;
+    height: 595px;
+    /*background-image: linear-gradient(#E5E162, #322C86);*/
+    background-color:white;
+  }
+
+  .dashboard-header>nav>ul{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .dashboard-header>nav>ul>li>a{
+    color:teal;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .dashboard-header>nav>ul>li>a:hover{
+    display: block;
+    background-color: #56565A;
+  }
+
+  .content{
+    margin-left: 1.5%;
+    border: 1px solid white;
+    border-radius: 25px;
+   /* background-image: linear-gradient(#E5E162, #322C86);*/
+    background-color: white;
+    width: 950px;
+    border:1px solid black;
+  }
+  
+  .content-header{
+    padding: 2%;
+    display: flex;
+    gap: 5%;
+    margin: 2%;
+  }
+  
+  .content-header>span{
+    align-self: center;
+    margin-left: 40%;
+    font-size: 18px;
+  }
+  
+  .content-header>span>a{
+    color:black;
+  }
+  
+  .content-header>form>input{
+    width: 250px; 
+    position: relative;
+    margin-left: 2%;
+  }
+   
+  .content-header>form>button
+  {
+    width: 100px;
+    position: absolute;
+    right:600px;
+  }
+
+  
+
+  
+
+
+  

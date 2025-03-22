@@ -1,0 +1,71 @@
+
+ .activity{
+
+  }
+
+  .box{
+        display: flex;
+        flex-wrap: wrap;
+        gap:5%;
+        align-items: flex-start;
+        padding: 2%;
+   }
+   h5{
+    font-weight: 600;
+   }
+  .container1,.container3 
+  {
+    width: 400px;
+    margin-bottom: 20px;
+    margin-left: 1%;
+  }
+
+  /*.container1, .container2, .container3,.container4{
+    border: 1px solid black;
+    border-radius: 25px;
+  }*/
+
+  .container2,.container4
+  {
+    width: 400px;
+    margin-bottom: 10px;
+    margin-left: 1%;
+  }
+      
+  /* Calendar Styles */
+.container1,.container2,.container3,.container4{
+    background: white;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+}
+.days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+    margin-top: 5px;
+    text-align: center;
+}
+.day {
+    background: #e3e3e3;
+    padding: 5px;
+    border-radius: 4px;
+}
+.weekday {
+    font-weight: bold;
+    background: black;
+    color: white;
+}
+.arrow {
+    cursor: pointer;
+    font-size: 18px;
+}
+/*End of Dashboard*/

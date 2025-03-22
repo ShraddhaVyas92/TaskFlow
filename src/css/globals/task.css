@@ -1,0 +1,75 @@
+
+#taskContainer{ 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 2%;
+    display: flex;
+}
+
+h4 {
+    color:black;
+    margin-left: 5%;
+}
+
+button{
+    background-color: blue;
+}
+.AddTask{
+    padding: 5%;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: black;
+}
+
+.pending {
+    color: red;
+}
+
+/* 
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-weight: bold;
+    text-align: left;
+    display: block;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    height: 80px;
+    resize: none;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+} 
+
+button:hover {
+    background: #0056b3;
+}*/
+
+/* Responsive Design 
+@media (max-width: 500px) {
+    .container {
+        width: 90%;
+    }
+}*/
+
+

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="./src/main.js"></script>
+
+    <title>Document</title>
+</head>
+<body class="wrapper">
+    <section class="dashboard-content">
+        <header class="dashboard-header">
+          <div class="logo">
+            <a href="/"> TaskFlow </a>
+        </div>
+            <nav>
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                      <a class="nav-link active" aria-current="page" href="./dashboard.html">Dashboard</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Calendar</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/addTask.html">Tasks</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Report</a>
+                    </li>
+                  </ul>
+            </nav>
+        </header>
+        <main>
+          <section class="content">   
+            <header class="content-header">
+              <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                  <button class="btn btn-dark" type="submit">Search</button>
+              </form>
+              <span> <a href="addTask.html" > Add New Task </a> </span>
+              <a> <img src="images/profile.png" height="50px" width="50px"/> </a>
+             </header>
+            
+
+              <h4>Task List</h4> <br/>
+              <div id="taskContainer"></div> 
+              <script src="./src/task.js"></script> <!-- Link to your JavaScript file -->
+              
+              
+             
+
+             <!--- <h4>Add New Task</h4>
+              <form action="#" method="POST">
+                  
+                 
+                  <label for="title">Task Title</label>
+                  <input type="text" id="title" name="title" placeholder="Enter task title" required>
+      
+                 
+                  <label for="description">Description</label>
+                  <textarea id="description" name="description" placeholder="Enter task details" required></textarea>
+      
+                  
+                  <label for="due_date">Due Date</label>
+                  <input type="date" id="due_date" name="due_date" required>
+      
+                  
+                  <label for="priority">Priority</label>
+                  <select id="priority" name="priority">
+                      <option value="high">🔥 High</option>
+                      <option value="medium">⚡ Medium</option>
+                      <option value="low">✅ Low</option>
+                  </select>
+      
+                
+                  <label for="category">Category</label>
+                  <select id="category" name="category">
+                      <option value="work">🏢 Work</option>
+                      <option value="personal">🏡 Personal</option>
+                      <option value="finance">💰 Finance</option>
+                      <option value="health">🏋️‍♂️ Health & Fitness</option>
+                      <option value="shopping">🛒 Shopping</option>
+                  </select>
+                  <button type="submit">Add Task</button>
+      
+              </form>-->
+          </section>
+        </main> 
+        </section>
+</body>
+</html>

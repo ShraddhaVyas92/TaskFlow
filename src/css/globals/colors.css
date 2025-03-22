@@ -1,0 +1,30 @@
+:root {
+    /* BACKGROUND */
+    /*--clr-bg-main: hsl(0, 100%, 0%);*/
+    --clr-bg-main:hsl(229,80%,40%);
+    --clr-bg-container: #E5E162;
+   /* --clr-bg-play-outer:
+    --clr-bg-play: 
+  
+    --clr-bg-link-hover: */
+  
+    /* TEXT */
+    --clr-text:hsl(0,100%,0%) ;
+    /*--clr-text-dark: 
+    --clr-text-grey: */
+  
+    /* BUTTON */
+    /*--clr-btn-bg-primary: hsl(0,100%,0%) ;
+    --clr-bg-btn-hover: */
+  }
+
+  body{
+    background-color: var(--clr-bg-main);
+    color: var(--clr-text);
+ }
+
+ .login-container
+ {
+    background-color: var(--clr-bg-container);
+ }
+  

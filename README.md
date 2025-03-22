@@ -28,6 +28,35 @@ List the ready features here:
 - Track task completion progress
 - Set due dates and reminders
 
+## Getting Started
+
+### Steps to Set Up the Project  
+
+1️⃣ **Clone the repository**  
+```sh
+git clone https://github.com/ShraddhaVyas92/TaskFlow.git
+cd TaskFlow
+```
+
+2️⃣ **Install dependencies**  
+```sh
+npm install
+
+3️⃣ **Run the development server**  
+```sh
+npm run dev
+```
+## Future Improvements
+
+Planned roadmap:
+
+- Create Login and Registration Page - DONE
+- Create basic home page laayout - **In Progress**
+- Add , Edit, Delete Task - **In Progress**
+- Categorize tasks by month
+- Track task completion progress
+- Set due dates and reminders
+
 ## Project Status
 
 Project is: _in progress_
